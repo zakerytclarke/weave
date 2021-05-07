@@ -1,0 +1,5 @@
+findOddFactors:=(z){
+  x:=Integer;
+  y:=Integer;
+  z:=
+}

@@ -1,0 +1,1 @@
+value(Tree(a,_)):=a;

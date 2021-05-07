@@ -1,0 +1,6 @@
+Point::=[Number(x),Number(x)]
+
+Rectangle::=[Point(a,b),Point(c,d)]
+
+
+Point(a,c)+Point(c,d):=Point(a+c,b+d);

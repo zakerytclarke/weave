@@ -1,0 +1,16 @@
+factors:=(z){
+  x::=Integer;
+  y::=Integer;
+  x*y=z
+  return [x,y];
+}
+
+
+
+orderedFactors:=(z){
+  x::=Integer;
+  y::=Integer;
+  x<y;
+  x*y=z;
+  return [x,y];
+}
